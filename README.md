@@ -1,6 +1,6 @@
 # Love-Running 
 
-#### Welcome! 
+## Welcome! 
 
 1. [View the Love Running website here.](https://amir-rastkhadiv.github.io/Love-Running/) 
 
