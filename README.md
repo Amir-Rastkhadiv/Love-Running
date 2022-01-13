@@ -87,7 +87,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
--   All content was written by the developer follwing [Course modules](https://codeinstitute.net) at code institue. 
+-   All content was written by the developer follwing relevant course modules at [Code Institute](https://codeinstitute.net). 
 
 ### Media
 
