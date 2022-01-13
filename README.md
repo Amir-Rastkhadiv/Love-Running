@@ -87,16 +87,20 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
--   All content was written by the developer.
+-   All content was written by the developer follwing [Course modules](https://codeinstitute.net) at code institue. 
 
 ### Media
 
--   All Images were created by the developer.
+-   All Images were created by [Code Institute](https://codeinstitute.net)
 
 ### Acknowledgements
 
--   My Family for their support in particular my siblings. 
+-   My Family for their affections, ongoing support, and in particular, my siblings for their encouraging pieces of advice.
+
+-   Toutor support South Devon University-College.  
 
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
+
