@@ -2,8 +2,9 @@
 
 #### Welcome! 
 
-[View the Love Running website here.](https://amir-rastkhadiv.github.io/Love-Running/) 
-[View the Love Running website here.](https://love-running-1.amirrk.repl.co/index.html)
+1. [View the Love Running website here.](https://amir-rastkhadiv.github.io/Love-Running/) 
+
+1. [This is another view of the Love Running website.](https://love-running-1.amirrk.repl.co/index.html)
 
 A responsive and accessible website built entirely applying  HTML   and CSS
 
@@ -27,7 +28,7 @@ Tis project was written in replit. Love running is the mini project. It is desig
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [Git](https://git-scm.com/)
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+    - Git was used for version control by utilizing the repleit terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Replit](https://replit.com/)
