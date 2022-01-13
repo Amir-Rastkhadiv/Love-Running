@@ -2,9 +2,9 @@
 
 #### Welcome! 
 
-[View the Love Running website here.]
-(https://amir-rastkhadiv.github.io/Love-Running/) 
-(https://love-running-1.amirrk.repl.co/index.html)
+[View the Love Running website here.](https://amir-rastkhadiv.github.io/Love-Running/) 
+[View the Love Running website here.](https://love-running-1.amirrk.repl.co/index.html)
+
 A responsive and accessible website built entirely applying  HTML   and CSS
 
 Tis project was written in replit. Love running is the mini project. It is designed to be responsibe and accessible on a range of devices, making it easy to learn and practice HTML5 and CSS3 codes.
