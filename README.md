@@ -8,7 +8,7 @@
 
 A responsive and accessible website built entirely applying  HTML   and CSS
 
-This project was written in [Replit](https://replit.com/). Generally, Love running is a mini-project. It is desined for learning purposes to be responsible and accessible on a range of devices, making it easy to learn and practice HTML5 and CSS3 components of the so-called trinity of web development building blocks along with JavaScript. 
+The Love Running is a mini-project. It is designed for learning purposes to be responsible and accessible on a range of devices, making it easy to learn and practice HTML5 and CSS3 components of the so-called trinity of web development building blocks along with JavaScript.
 
 ## Features
 
@@ -95,15 +95,16 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
--   My lovely family and friends for their affections, ongoing support, and in particular, my siblings for their encouraging pieces of advice.
+-   I want to use this opportunity to say thanks to my lovely family and friends for their affections, ongoing support, and in particular, my siblings for their encouraging pieces of advice.
 
--   Toutor support South Devon University-College for amazing support.  
+-  Massive thanks to my course tutor at South Devon University-College for the fantastic support.  
 
--   My Mentor for continuous helpful feedback.
+-   I appreciate my mentor for continuous professional and helpful feedback.
 
--   Tutor support at Code Institute for their wonderful helps.
+-  I can't thank you enough tutor support at Code Institute for their tremendous help.
 
--   Amazing web developer community on slack.  
+-  I am grateful for the fantastic web developer community on slack.  
+
 
 
 
