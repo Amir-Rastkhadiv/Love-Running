@@ -2,7 +2,7 @@
 
 ## Welcome! 
 
-1. [View the Love Running website here.](https://amir-rastkhadiv.github.io/Love-Running/) 
+1. [View the Love Running website here.](https://amir-rastkhadiv.github.io/love-running/) 
 
 1. [This is another view of the Love Running website.](https://love-running-1.amirrk.repl.co/index.html)
 
