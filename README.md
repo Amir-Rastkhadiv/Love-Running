@@ -19,8 +19,6 @@ In this section, you will include one or two paragraphs providing an overview of
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
 - __Navigation Bar__
@@ -81,15 +79,6 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-
 ### Validator Testing 
 
 - HTML
@@ -108,7 +97,6 @@ N/A
 
 The live link can be found here -  [View the Love Running website here.](https://amir-rastkhadiv.github.io/love-running/) 
 
-
 ## Credits 
 
 The Code Institute LMS
@@ -126,7 +114,6 @@ The Code Institute LMS
 
 ## Other General Project Advice
 
-
 ### Features
 
 -   Responsive on all device sizes
@@ -142,13 +129,13 @@ The Code Institute LMS
 
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
+2. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [Git](https://git-scm.com/)
+3. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the repleit terminal to commit to Git and Push to GitHub.
-1. [GitHub:](https://github.com/)
+4. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Replit](https://replit.com/)
+5. [Replit](https://replit.com/)
 
 ### Deployment
 
